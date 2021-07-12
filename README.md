@@ -14,7 +14,7 @@ https://github.com/merinanto/Neural_Network_Charity_Analysis/blob/main/Resources
 1. Script used to implement the Deep Neural Network on the dataset:-
 https://github.com/merinanto/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb
 
-2.Script used to optimize the Deep Neural Network on the dataset:-
+2. Script used to optimize the Deep Neural Network on the dataset:-
 https://github.com/merinanto/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimzation.ipynb
 
 ### Details of Analysis 
@@ -35,7 +35,7 @@ https://github.com/merinanto/Neural_Network_Charity_Analysis/blob/main/AlphabetS
 
   ![image](https://github.com/merinanto/Neural_Network_Charity_Analysis/blob/main/Resources/performance_values.png)
 
-#### Optimization Details
+### Optimization Details
 
 1. Removed the status feature as only 5 inactive organization
    Loss got reduced, but very slight increase in Accuracy
